@@ -22,7 +22,7 @@
   "main": "dist-modules",
   "dependencies": {
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^16.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
